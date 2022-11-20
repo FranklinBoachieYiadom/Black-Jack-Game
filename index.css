@@ -1,0 +1,43 @@
+h1{
+    color: gold;
+}
+#message-el{
+    font-style: italic;
+    font-size: larger;
+}
+body{
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    background-image: url("bg.jpg");
+    background-size: cover;
+    
+    color: beige;
+    font-weight: bold;
+}
+button{
+    padding: 20px;
+    font-size:x-large;
+    color: gold;
+    margin: 10px;
+    border: navy;
+    border-radius: 9px;
+    background-color: green;
+    width: 250px;
+}
+p{
+    font-size: larger;
+    font-weight: 200px;
+}
+img{
+    width: 10%;
+    height: 10%;
+}
+span{
+    font-size: larger;
+    color: beige;
+}
+#player-el{
+    color: yellow;
+    font-weight: bolder;
+}
